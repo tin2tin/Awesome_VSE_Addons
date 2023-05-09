@@ -1,6 +1,11 @@
 # Awesome VSE Addons
 A list of awesome Blender Video Sequence Editor add-ons(mine or other's I've contributed to).
 
+My YouTube Channel: https://www.youtube.com/channel/UCcn2HuL2PKMcJ0nmkOh3yvA
+
+![image](https://user-images.githubusercontent.com/1322593/236997265-9ebaaf3a-8e6e-48a4-bce4-547b6eb252e7.png)
+
+
 ## Add Strips
 * AI generated Video, Audio, Speech and Image: https://github.com/tin2tin/Generative_AI
 * Speech: https://github.com/tin2tin/text_strip_to_speech
