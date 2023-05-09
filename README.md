@@ -1,4 +1,4 @@
-# Awesome VSE Addons
+# Awesome Blender Video Sequence Editor Addons
 A list of awesome Blender Video Sequence Editor add-ons(mine or other's I've contributed to).
 
 My YouTube Channel: https://www.youtube.com/channel/UCcn2HuL2PKMcJ0nmkOh3yvA
