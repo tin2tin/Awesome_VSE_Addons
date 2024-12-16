@@ -27,6 +27,7 @@ My YouTube Channel: https://www.youtube.com/channel/UCcn2HuL2PKMcJ0nmkOh3yvA
 ## Audio
 * Bridge to/from Audacity: https://github.com/tin2tin/Audacity_Bridge_for_Blender
 * Volume Meter: https://github.com/tin2tin/volume_meter
+* Volume Menu: https://github.com/tin2tin/volume_menu
 * Surround UI: https://github.com/tin2tin/Sound_Strip_Surround_UI
 * Stems Separator: https://github.com/tin2tin/Music_Stems_Separator
 * Text to Speech: https://github.com/tin2tin/Text_Strip_to_Speech
@@ -41,17 +42,20 @@ My YouTube Channel: https://www.youtube.com/channel/UCcn2HuL2PKMcJ0nmkOh3yvA
 * Fast Export: https://github.com/tin2tin/Parallel_Render
 * Import EDL: https://github.com/tin2tin/Import_EDL
 * Export EDL: https://github.com/tin2tin/Export_EDL
+* Import FCP XML: https://github.com/tin2tin/fcpxml_import
 * Export OTIO: https://github.com/tin2tin/VSE_OTIO_Export
 * Import as Asset: https://github.com/tin2tin/Import_as_asset
-* Get Mediainfo: https://github.com/tin2tin/get_mediainfo
+* Get MediaInfo: https://github.com/tin2tin/get_mediainfo
 * Paste Image to VSE: https://github.com/tin2tin/ImagePaste
 * render Current Frame: https://github.com/tin2tin/render_current_frame
 * I/O Subtitles: https://github.com/tin2tin/Subtitle_Editor
-* FCP XML Import: https://github.com/tin2tin/fcpxml_import
 * Sequencer Storehouse: https://github.com/tin2tin/sequencer_storehouse
 
 ## Help
 * Documentation: https://github.com/tin2tin/open_vse_docs
+
+## Image Editor
+* Masking Tools: https://github.com/tin2tin/vse_masking_tools
 
 ## Screenwriting & Storytelling
 * Screenwrite and Generate Sequence: https://github.com/tin2tin/Blender_Screenwriter
@@ -108,5 +112,9 @@ My YouTube Channel: https://www.youtube.com/channel/UCcn2HuL2PKMcJ0nmkOh3yvA
 * Auto Select Active Strip: https://github.com/tin2tin/auto_select_active_strip
 * Go To Matching Frame(in another scene): https://github.com/tin2tin/match_frame
 * Auto Organize Sequence: https://github.com/tin2tin/Auto_Organize_Sequence
+* Add Ken Burns (zooms): https://github.com/tin2tin/add_ken_burns
+* Join Through Strips: https://github.com/tin2tin/join_through_splits
+* Go to Frame: https://github.com/tin2tin/go_to_frame
+* Move Selection: https://github.com/tin2tin/move_selection
 
 
