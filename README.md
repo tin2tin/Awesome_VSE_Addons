@@ -1,5 +1,5 @@
 # Awesome Blender Video Sequence Editor Addons
-A list of awesome Blender Video Sequence Editor add-ons(mine or other's I've contributed to).
+A list of awesome Blender Video Sequence Editor add-ons(mine or others I've contributed to).
 
 My YouTube Channel: https://www.youtube.com/channel/UCcn2HuL2PKMcJ0nmkOh3yvA
 
@@ -7,7 +7,7 @@ My YouTube Channel: https://www.youtube.com/channel/UCcn2HuL2PKMcJ0nmkOh3yvA
 
 
 ## Add Strips
-* AI generated Video, Audio, Speech and Image: https://github.com/tin2tin/Generative_AI
+* AI-generated Video, Audio, Speech, and Image: https://github.com/tin2tin/Generative_AI
 * Speech: https://github.com/tin2tin/text_strip_to_speech
 * Stems: https://github.com/tin2tin/Music_Stems_Separator
 * Alpha Background: https://github.com/tin2tin/remove_background
@@ -17,11 +17,12 @@ My YouTube Channel: https://www.youtube.com/channel/UCcn2HuL2PKMcJ0nmkOh3yvA
 * Rendered Strips: https://github.com/tin2tin/Add_Rendered_Strips
 
 ## AI
-* AI generated Video, Audio, Speech and Image: https://github.com/tin2tin/Generative_AI
+* AI-generated Video, Audio, Speech, and Image: https://github.com/tin2tin/Generative_AI
 * Text to Speech: https://github.com/tin2tin/text_strip_to_speech
 * Stems Separator: https://github.com/tin2tin/Music_Stems_Separator
 * Remove Background: https://github.com/tin2tin/remove_background
 * Screenwriter ChatGPT Assistant: https://github.com/tin2tin/Blender_Screenwriter_Assistant_chat_GPT
+* 2D Asset generator: https://github.com/tin2tin/2D_Asset_Generator
 
 ## Audio
 * Bridge to/from Audacity: https://github.com/tin2tin/Audacity_Bridge_for_Blender
@@ -33,7 +34,7 @@ My YouTube Channel: https://www.youtube.com/channel/UCcn2HuL2PKMcJ0nmkOh3yvA
 * Freesound Bridge: https://github.com/tin2tin/freesound
 * Audio Channels Export: https://github.com/tin2tin/Audio_Channels_Export
 * Record from Mic: https://github.com/tin2tin/blender_addon_push_to_talk
-* Render Proxy fot Audio: https://github.com/tin2tin/blenderAudioProxy
+* Render Proxy for Audio: https://github.com/tin2tin/blenderAudioProxy
 
 ## File I/0
 * File Menu: https://github.com/tin2tin/VSE_File_Menu
@@ -46,6 +47,8 @@ My YouTube Channel: https://www.youtube.com/channel/UCcn2HuL2PKMcJ0nmkOh3yvA
 * Paste Image to VSE: https://github.com/tin2tin/ImagePaste
 * render Current Frame: https://github.com/tin2tin/render_current_frame
 * I/O Subtitles: https://github.com/tin2tin/Subtitle_Editor
+* FCP XML Import: https://github.com/tin2tin/fcpxml_import
+* Sequencer Storehouse: https://github.com/tin2tin/sequencer_storehouse
 
 ## Help
 * Documentation: https://github.com/tin2tin/open_vse_docs
@@ -69,7 +72,6 @@ My YouTube Channel: https://www.youtube.com/channel/UCcn2HuL2PKMcJ0nmkOh3yvA
 * Text Block to Text Strip: https://github.com/tin2tin/import_text_block_as_text_strip
 * Text Editor to Text Strip: https://github.com/tin2tin/text_to_strip
 * Text to AI: https://github.com/tin2tin/Generative_AI
-
 
 ## Text Editor
 * Update Old Addons: https://github.com/tin2tin/script_update_checker
@@ -95,10 +97,16 @@ My YouTube Channel: https://www.youtube.com/channel/UCcn2HuL2PKMcJ0nmkOh3yvA
 * Scene/Shot Detection: https://github.com/tin2tin/shot_detection
 * Auto Edit: https://github.com/tin2tin/Auto_Edit_on_Sound
 
+## 3D View
+* VSE to 3D View Camera Background: https://github.com/tin2tin/vse_to_camera_background
+* 2D Asset generator: https://github.com/tin2tin/2D_Asset_Generator
+
 ## Workflow
 * Add Rendered Strips: https://github.com/tin2tin/Add_Rendered_Strips
 * Auto Arrange(clean-up) Sequence: https://github.com/tin2tin/Arrange_Sequence
 * Auto Set Range: https://github.com/tin2tin/Auto_Range
 * Auto Select Active Strip: https://github.com/tin2tin/auto_select_active_strip
 * Go To Matching Frame(in another scene): https://github.com/tin2tin/match_frame
+* Auto Organize Sequence: https://github.com/tin2tin/Auto_Organize_Sequence
+
 
