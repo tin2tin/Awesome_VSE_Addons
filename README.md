@@ -71,7 +71,7 @@ My YouTube Channel: https://www.youtube.com/channel/UCcn2HuL2PKMcJ0nmkOh3yvA
 ## Text Strips
 * Text Strip Editor: https://github.com/tin2tin/Subtitle_Editor
 * Text to Speech: https://github.com/tin2tin/Text_Strip_to_Speech
-* Add Outline: https://github.com/tin2tin/Outline_for_Text_Strips
+* Typing Effect: https://github.com/tin2tin/typing_effect_vse
 * Import Subtitles: https://github.com/tin2tin/import_subtitles
 * Text Block to Text Strip: https://github.com/tin2tin/import_text_block_as_text_strip
 * Text Editor to Text Strip: https://github.com/tin2tin/text_to_strip
