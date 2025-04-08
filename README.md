@@ -50,6 +50,7 @@ My YouTube Channel: https://www.youtube.com/channel/UCcn2HuL2PKMcJ0nmkOh3yvA
 * render Current Frame: https://github.com/tin2tin/render_current_frame
 * I/O Subtitles: https://github.com/tin2tin/Subtitle_Editor
 * Sequencer Storehouse: https://github.com/tin2tin/sequencer_storehouse
+* LUT import: https://github.com/tin2tin/3D_LUT_Import_VSE
 
 ## Help
 * Documentation: https://github.com/tin2tin/open_vse_docs
